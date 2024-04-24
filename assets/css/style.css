@@ -623,7 +623,7 @@ input {
   }
   .pages {
     width: 100%;
-    height: 100vh;
+    height: 60vh;
     background-color: var(--box1-color);
   }
   .page-box-1,
